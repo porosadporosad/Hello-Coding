@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/bin/Debug/net7.0/chapter3
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/bin/Debug/net7.0/chapter3.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/bin/Debug/net7.0/chapter3.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/bin/Debug/net7.0/chapter3.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/bin/Debug/net7.0/chapter3.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/refint/chapter3.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/chapter3.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터3/chapter3/chapter3/obj/Debug/net7.0/ref/chapter3.dll

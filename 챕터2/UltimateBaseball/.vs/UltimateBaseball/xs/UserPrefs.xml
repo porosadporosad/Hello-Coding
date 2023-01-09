@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{52910E48-FC8B-407D-BDBE-7598AE7B265A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltimateBaseball/Program.cs">
+    <Files>
+      <File FileName="UltimateBaseball/Program.cs" Line="7" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UltimateBaseball" expanded="True">
+            <Node name="UltimateBaseball" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UltimateBaseball PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
