@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D8BE852B-E99A-47BC-BDC6-D3B9A4BA8D9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.기초문제 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="기초문제/Program.cs">
+    <Files>
+      <File FileName="기초문제/Program.cs" Line="57" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="기초문제" expanded="True">
+            <Node name="기초문제" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/xkwhd/Desktop/무제 폴더/챕터4/기초문제/기초문제/Program.cs" relfile="기초문제/Program.cs" line="41" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

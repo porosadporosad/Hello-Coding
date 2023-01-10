@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/bin/Debug/net7.0/기초문제
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/bin/Debug/net7.0/기초문제.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/bin/Debug/net7.0/기초문제.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/bin/Debug/net7.0/기초문제.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/bin/Debug/net7.0/기초문제.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/refint/기초문제.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/기초문제.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/기초문제/기초문제/obj/Debug/net7.0/ref/기초문제.dll

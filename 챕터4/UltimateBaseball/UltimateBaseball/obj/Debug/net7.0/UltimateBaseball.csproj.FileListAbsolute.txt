@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/bin/Debug/net7.0/UltimateBaseball
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/bin/Debug/net7.0/UltimateBaseball.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/bin/Debug/net7.0/UltimateBaseball.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/bin/Debug/net7.0/UltimateBaseball.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/bin/Debug/net7.0/UltimateBaseball.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/refint/UltimateBaseball.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/UltimateBaseball.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터4/UltimateBaseball/UltimateBaseball/obj/Debug/net7.0/ref/UltimateBaseball.dll
