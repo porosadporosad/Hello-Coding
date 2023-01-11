@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5135231A-E4AE-4C4D-BF30-ADD920516978}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoorLock/Program.cs">
+    <Files>
+      <File FileName="DoorLock/Program.cs" Line="14" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoorLock" expanded="True">
+            <Node name="DoorLock" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DoorLock PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

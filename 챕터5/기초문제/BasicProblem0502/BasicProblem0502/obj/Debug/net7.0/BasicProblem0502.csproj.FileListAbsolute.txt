@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/bin/Debug/net7.0/BasicProblem0502
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/bin/Debug/net7.0/BasicProblem0502.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/bin/Debug/net7.0/BasicProblem0502.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/bin/Debug/net7.0/BasicProblem0502.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/bin/Debug/net7.0/BasicProblem0502.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/refint/BasicProblem0502.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/BasicProblem0502.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/기초문제/BasicProblem0502/BasicProblem0502/obj/Debug/net7.0/ref/BasicProblem0502.dll

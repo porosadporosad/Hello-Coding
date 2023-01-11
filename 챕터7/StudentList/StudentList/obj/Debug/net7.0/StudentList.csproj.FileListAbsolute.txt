@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/bin/Debug/net7.0/StudentList
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/bin/Debug/net7.0/StudentList.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/bin/Debug/net7.0/StudentList.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/bin/Debug/net7.0/StudentList.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/bin/Debug/net7.0/StudentList.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/refint/StudentList.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/StudentList.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/StudentList/StudentList/obj/Debug/net7.0/ref/StudentList.dll

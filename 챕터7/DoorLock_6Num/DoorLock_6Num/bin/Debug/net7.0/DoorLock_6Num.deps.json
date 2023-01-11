@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DoorLock_6Num/1.0.0": {
+        "runtime": {
+          "DoorLock_6Num.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoorLock_6Num/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

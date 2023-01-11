@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BasicProblem0502/1.0.0": {
+        "runtime": {
+          "BasicProblem0502.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicProblem0502/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

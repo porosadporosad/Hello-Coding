@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/bin/Debug/net7.0/Echo
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/bin/Debug/net7.0/Echo.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/bin/Debug/net7.0/Echo.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/bin/Debug/net7.0/Echo.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/bin/Debug/net7.0/Echo.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/refint/Echo.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/Echo.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터5/Echo/Echo/obj/Debug/net7.0/ref/Echo.dll

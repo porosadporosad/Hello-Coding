@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/bin/Debug/net7.0/DoorLock_6Num
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/bin/Debug/net7.0/DoorLock_6Num.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/bin/Debug/net7.0/DoorLock_6Num.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/bin/Debug/net7.0/DoorLock_6Num.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/bin/Debug/net7.0/DoorLock_6Num.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/refint/DoorLock_6Num.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/DoorLock_6Num.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/DoorLock_6Num/DoorLock_6Num/obj/Debug/net7.0/ref/DoorLock_6Num.dll

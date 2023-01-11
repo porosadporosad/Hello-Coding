@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/bin/Debug/net7.0/BasicProblem0701
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/bin/Debug/net7.0/BasicProblem0701.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/bin/Debug/net7.0/BasicProblem0701.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/bin/Debug/net7.0/BasicProblem0701.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/bin/Debug/net7.0/BasicProblem0701.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/refint/BasicProblem0701.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/BasicProblem0701.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터7/BasicProblem0701/BasicProblem0701/obj/Debug/net7.0/ref/BasicProblem0701.dll
