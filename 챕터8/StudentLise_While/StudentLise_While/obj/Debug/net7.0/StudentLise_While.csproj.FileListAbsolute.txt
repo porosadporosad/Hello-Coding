@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/bin/Debug/net7.0/StudentLise_While
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/bin/Debug/net7.0/StudentLise_While.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/bin/Debug/net7.0/StudentLise_While.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/bin/Debug/net7.0/StudentLise_While.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/bin/Debug/net7.0/StudentLise_While.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/refint/StudentLise_While.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/StudentLise_While.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터8/StudentLise_While/StudentLise_While/obj/Debug/net7.0/ref/StudentLise_While.dll
