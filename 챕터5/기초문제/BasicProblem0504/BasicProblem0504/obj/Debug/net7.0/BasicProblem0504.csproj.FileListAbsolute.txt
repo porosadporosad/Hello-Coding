@@ -1,0 +1,15 @@
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/bin/Debug/net7.0/BasicProblem0504
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/bin/Debug/net7.0/BasicProblem0504.deps.json
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/bin/Debug/net7.0/BasicProblem0504.runtimeconfig.json
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/bin/Debug/net7.0/BasicProblem0504.dll
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/bin/Debug/net7.0/BasicProblem0504.pdb
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.csproj.AssemblyReference.cache
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.AssemblyInfoInputs.cache
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.AssemblyInfo.cs
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.dll
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/refint/BasicProblem0504.dll
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.pdb
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/BasicProblem0504.genruntimeconfig.cache
+/Users/xkwhd/Projects/BasicProblem0504/BasicProblem0504/obj/Debug/net7.0/ref/BasicProblem0504.dll
