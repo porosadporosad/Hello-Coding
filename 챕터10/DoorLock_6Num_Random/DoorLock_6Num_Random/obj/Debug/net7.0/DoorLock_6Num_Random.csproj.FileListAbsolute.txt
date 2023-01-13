@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/bin/Debug/net7.0/DoorLock_6Num_Random
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/bin/Debug/net7.0/DoorLock_6Num_Random.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/bin/Debug/net7.0/DoorLock_6Num_Random.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/bin/Debug/net7.0/DoorLock_6Num_Random.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/bin/Debug/net7.0/DoorLock_6Num_Random.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/refint/DoorLock_6Num_Random.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/DoorLock_6Num_Random.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/DoorLock_6Num_Random/DoorLock_6Num_Random/obj/Debug/net7.0/ref/DoorLock_6Num_Random.dll

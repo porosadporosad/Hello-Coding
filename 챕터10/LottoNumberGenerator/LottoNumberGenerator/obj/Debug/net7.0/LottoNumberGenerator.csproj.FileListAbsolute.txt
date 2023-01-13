@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/bin/Debug/net7.0/LottoNumberGenerator
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/bin/Debug/net7.0/LottoNumberGenerator.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/bin/Debug/net7.0/LottoNumberGenerator.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/bin/Debug/net7.0/LottoNumberGenerator.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/bin/Debug/net7.0/LottoNumberGenerator.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/refint/LottoNumberGenerator.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/LottoNumberGenerator.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터10/LottoNumberGenerator/LottoNumberGenerator/obj/Debug/net7.0/ref/LottoNumberGenerator.dll

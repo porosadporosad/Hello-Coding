@@ -1,0 +1,15 @@
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/bin/Debug/net7.0/Gugudan
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/bin/Debug/net7.0/Gugudan.deps.json
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/bin/Debug/net7.0/Gugudan.runtimeconfig.json
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/bin/Debug/net7.0/Gugudan.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/bin/Debug/net7.0/Gugudan.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.csproj.AssemblyReference.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.AssemblyInfoInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.AssemblyInfo.cs
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/refint/Gugudan.dll
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.pdb
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/Gugudan.genruntimeconfig.cache
+/Users/xkwhd/Desktop/Hello Coding/챕터9/Gugudan/Gugudan/obj/Debug/net7.0/ref/Gugudan.dll

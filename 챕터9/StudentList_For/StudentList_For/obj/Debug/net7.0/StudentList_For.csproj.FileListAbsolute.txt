@@ -1,0 +1,15 @@
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/bin/Debug/net7.0/StudentList_For
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/bin/Debug/net7.0/StudentList_For.deps.json
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/bin/Debug/net7.0/StudentList_For.runtimeconfig.json
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/bin/Debug/net7.0/StudentList_For.dll
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/bin/Debug/net7.0/StudentList_For.pdb
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.csproj.AssemblyReference.cache
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.AssemblyInfoInputs.cache
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.AssemblyInfo.cs
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.csproj.CoreCompileInputs.cache
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.dll
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/refint/StudentList_For.dll
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.pdb
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/StudentList_For.genruntimeconfig.cache
+/Users/xkwhd/Projects/StudentList_For/StudentList_For/obj/Debug/net7.0/ref/StudentList_For.dll

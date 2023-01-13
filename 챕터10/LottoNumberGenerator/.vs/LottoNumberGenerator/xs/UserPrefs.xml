@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1013E0A0-99DF-49E1-93EF-277C81756511}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LottoNumberGenerator/Program.cs">
+    <Files>
+      <File FileName="LottoNumberGenerator/Program.cs" Line="25" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LottoNumberGenerator" expanded="True">
+            <Node name="LottoNumberGenerator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LottoNumberGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

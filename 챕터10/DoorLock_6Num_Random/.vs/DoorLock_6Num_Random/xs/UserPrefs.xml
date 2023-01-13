@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{38D47251-4085-4D65-9C4B-67E82AB8565D}|Default">
+  <MonoDevelop.Ide.ItemProperties.DoorLock__6Num__Random PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoorLock_6Num_Random/Program.cs">
+    <Files>
+      <File FileName="DoorLock_6Num_Random/Program.cs" Line="11" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoorLock_6Num_Random" expanded="True">
+            <Node name="DoorLock_6Num_Random" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
